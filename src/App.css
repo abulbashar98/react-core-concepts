@@ -62,3 +62,11 @@
   width: 75vw;
   margin:  10px auto;
 }
+.pool-buddy{
+  background-color: lightpink;
+  color:lightseagreen;
+  border: 3px solid red;
+  border-radius: 20px;
+  width: 75vw;
+  margin:  10px auto;
+}
