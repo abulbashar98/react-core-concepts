@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  background-color: bisque;
+  color: blue;
+  padding: 10px;
+  border-radius: 20px;
+}
+.school{
+  background-color: black;
+  color: aqua;
+}
+.friend{
+  background-color: lightslategray;
+  color:lightgreen;
+  border: 3px solid yellow;
+  border-radius: 20px;
+  width: 75vw;
+  margin:  10px auto;
+}
+.team-styles{
+  background-color: lightpink;
+  color:lightseagreen;
+  border: 3px solid red;
+  border-radius: 20px;
+  width: 75vw;
+  margin:  10px auto;
+}
